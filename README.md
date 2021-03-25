@@ -98,7 +98,8 @@ Here's a walkthrough of implemented user stories:
   visual balance of the web design to make it look more appealing. Make the webpage responsive so that the website can respond to the user's 
   behavior and environment based on their screen size, platform, and orientation. I would use sounds that correspond to the images that are 
   displayed (I did not have enough time for this feature). When the game is playing a pattern, make it so that the user cannot click on sounds 
-  (currently, users are able to press the buttons as the sounds are being played to them). Add levels with increasing difficulty. The following features will take longer than few hours, but:
+  (currently, users are able to press the buttons as the sounds are being played to them). Figure out why sometimes the sounds do not play and you 
+  have to reload the website for it to work again. Add levels with increasing difficulty. The following features will take longer than few hours, but:
   
   create a point system to award the users when they complete levels. 3 stars to players who complete the level without getting any strikes, 
   2 stars to 1 strike, and so on. Each star will coresspond to to x amount of points. Each level will award x points, so have a scroeboard 
