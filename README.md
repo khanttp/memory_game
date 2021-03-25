@@ -47,9 +47,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+![](memory_game_gif.gif)
 
-<img src = "https://cdn.glitch.com/10088d4d-740f-42bf-aa06-3f3972fae601%2Fmemory_game_gif.gif?v=1616641210130"> </img>
 
 
 ## Reflection Questions
