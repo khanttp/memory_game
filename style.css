@@ -1,0 +1,136 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  backgroun-color: slategrey;
+  color: grey;
+  text-align: center;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+  font-family: verdana, arial, sans-serif; 
+  text-align: center;
+}
+
+button{
+  padding: 10px;
+  border-radius: 10px;
+}
+
+
+#startBtn, #stopBtn{
+  
+  margin-left: 0px;
+  background-color: #4CAF50e;
+  border: 2px solid #4CAF50;
+  font-size: 20px;
+
+}
+
+
+
+#strike-container{
+  color:red;
+  padding: 10px;
+  margin-left: 200px;
+  font-size: 15px;
+  font-weight: bold;
+  display:inline-block;
+  border: 2px solid;
+  border-raidus: 20px;
+}
+
+#startBtn, #stopBtn:hover {
+  background-color: #4CAF50; 
+  color: white;
+}
+
+
+.row > button{
+  width:200px;
+  height: 200px;
+  margin: 2px;
+
+}
+
+.row{
+  text-align:center;  
+}
+
+
+
+.hidden{
+  display:none;
+}
+
+#gameBtn1{
+  background: lightgreen;
+  
+}
+
+
+
+#gameBtn1:active, #gameBtn1.lit{
+  background:green;
+  background-image: url("https://cdn.glitch.com/10088d4d-740f-42bf-aa06-3f3972fae601%2Fcar.png?v=1616625251237");
+  background-size: 150px 150px;
+
+}
+
+#gameBtn2{
+  background: lightblue;
+}
+
+#gameBtn2:active, #gameBtn2.lit{
+  background:blue;
+  background-image: url("https://cdn.glitch.com/10088d4d-740f-42bf-aa06-3f3972fae601%2Ftrain.png?v=1616624936022");
+  background-size: 150px 100px
+}
+
+#gameBtn3{
+  background: pink;
+}
+
+#gameBtn3:active, #gameBtn3.lit{
+  background:red;
+  
+  background-image: url("https://cdn.glitch.com/10088d4d-740f-42bf-aa06-3f3972fae601%2Fimages.jfif?v=1616626577229");
+  background-size: 100px 100px;
+  
+}
+
+
+#gameBtn4{
+  background: lightyellow;
+}
+
+#gameBtn4:active, #gameBtn4.lit{
+  background:yellow;
+  background-image: url("https://cdn.glitch.com/10088d4d-740f-42bf-aa06-3f3972fae601%2Fcatimage.png?v=1616626797162");
+  background-size: 100px 100px;
+}
+
+#gameBtn5{
+  background: #776160;
+}
+
+#gameBtn5:active, #gameBtn5.lit{
+  background: #000;
+  
+  background-image: url("https://cdn.glitch.com/10088d4d-740f-42bf-aa06-3f3972fae601%2Fdoorbell.jfif?v=1616627081524");
+  background-size: 200px 200px;
+}
+
+#gameBtn6{
+  background: #d891ef;
+}
+
+#gameBtn6:active, #gameBtn6.lit{
+  background: #875f9a;
+  background-image: url("https://cdn.glitch.com/10088d4d-740f-42bf-aa06-3f3972fae601%2Fthunder.png?v=1616627226535");
+  background-size: 100px 100px;
+}
+
